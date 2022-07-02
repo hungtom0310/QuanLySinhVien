@@ -1,0 +1,50 @@
+C:\Users\Administrator\source\repos\QLSV_3Layer\QLSV_3Layer\bin\Debug\QLSV_3Layer.exe.config
+C:\Users\Administrator\source\repos\QLSV_3Layer\QLSV_3Layer\bin\Debug\QLSV_3Layer.exe
+C:\Users\Administrator\source\repos\QLSV_3Layer\QLSV_3Layer\bin\Debug\QLSV_3Layer.pdb
+C:\Users\Administrator\source\repos\QLSV_3Layer\QLSV_3Layer\obj\Debug\QLSV_3Layer.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\QLSV_3Layer\QLSV_3Layer\obj\Debug\QLSV_3Layer.Properties.Resources.resources
+C:\Users\Administrator\source\repos\QLSV_3Layer\QLSV_3Layer\obj\Debug\QLSV_3Layer.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\QLSV_3Layer\QLSV_3Layer\obj\Debug\QLSV_3Layer.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\QLSV_3Layer\QLSV_3Layer\obj\Debug\QLSV_3Layer.exe
+C:\Users\Administrator\source\repos\QLSV_3Layer\QLSV_3Layer\obj\Debug\QLSV_3Layer.pdb
+C:\Users\Administrator\source\repos\QLSV_3Layer\QLSV_3Layer\obj\Debug\QLSV_3Layer.frmMain.resources
+C:\Users\Administrator\source\repos\QLSV_3Layer\QLSV_3Layer\obj\Debug\QLSV_3Layer.frmDSSV.resources
+C:\Users\Administrator\source\repos\QLSV_3Layer\QLSV_3Layer\obj\Debug\QLSV_3Layer.frmSinhVien.resources
+C:\Users\Administrator\source\repos\QLSV_3Layer\QLSV_3Layer\obj\Debug\QLSV_3Layer.frmDSGV.resources
+C:\Users\Administrator\source\repos\QLSV_3Layer\QLSV_3Layer\obj\Debug\QLSV_3Layer.frmGV.resources
+C:\Users\Administrator\source\repos\QLSV_3Layer\QLSV_3Layer\obj\Debug\QLSV_3Layer.frmDSMH.resources
+C:\Users\Administrator\source\repos\QLSV_3Layer\QLSV_3Layer\obj\Debug\QLSV_3Layer.frmMonHoc.resources
+C:\Users\Administrator\source\repos\QLSV_3Layer\QLSV_3Layer\obj\Debug\QLSV_3Layer.frmDSDiemThi.resources
+C:\Users\Administrator\source\repos\QLSV_3Layer\QLSV_3Layer\obj\Debug\QLSV_3Layer.frmWelcom.resources
+C:\Users\Administrator\source\repos\QLSV_3Layer\QLSV_3Layer\obj\Debug\QLSV_3Layer.frmDSLopHoc.resources
+C:\Users\Administrator\source\repos\QLSV_3Layer\QLSV_3Layer\obj\Debug\QLSV_3Layer.frmLopHoc.resources
+C:\Users\Administrator\source\repos\QLSV_3Layer\QLSV_3Layer\obj\Debug\QLSV_3Layer.frmDangNhap.resources
+C:\Users\Administrator\source\repos\QLSV_3Layer\QLSV_3Layer\obj\Debug\QLSV_3Layer.frmDangKyMonhoc.resources
+C:\Users\Administrator\source\repos\QLSV_3Layer\QLSV_3Layer\obj\Debug\QLSV_3Layer.frmDSMHDaDKy.resources
+C:\Users\Administrator\source\repos\QLSV_3Layer\QLSV_3Layer\obj\Debug\QLSV_3Layer.frmKQHocTap.resources
+C:\Users\Administrator\source\repos\QLSV_3Layer\QLSV_3Layer\obj\Debug\QLSV_3Layer.frmTroGiup.resources
+D:\Tải Xuống\QLSV\QLSV_3Layer\QLSV_3Layer\bin\Debug\QLSV_3Layer.exe.config
+D:\Tải Xuống\QLSV\QLSV_3Layer\QLSV_3Layer\bin\Debug\QLSV_3Layer.exe
+D:\Tải Xuống\QLSV\QLSV_3Layer\QLSV_3Layer\bin\Debug\QLSV_3Layer.pdb
+D:\Tải Xuống\QLSV\QLSV_3Layer\QLSV_3Layer\obj\Debug\QLSV_3Layer.csproj.AssemblyReference.cache
+D:\Tải Xuống\QLSV\QLSV_3Layer\QLSV_3Layer\obj\Debug\QLSV_3Layer.frmDangKyMonhoc.resources
+D:\Tải Xuống\QLSV\QLSV_3Layer\QLSV_3Layer\obj\Debug\QLSV_3Layer.frmDangNhap.resources
+D:\Tải Xuống\QLSV\QLSV_3Layer\QLSV_3Layer\obj\Debug\QLSV_3Layer.frmDSLopHoc.resources
+D:\Tải Xuống\QLSV\QLSV_3Layer\QLSV_3Layer\obj\Debug\QLSV_3Layer.frmDSDiemThi.resources
+D:\Tải Xuống\QLSV\QLSV_3Layer\QLSV_3Layer\obj\Debug\QLSV_3Layer.frmDSGV.resources
+D:\Tải Xuống\QLSV\QLSV_3Layer\QLSV_3Layer\obj\Debug\QLSV_3Layer.frmDSMH.resources
+D:\Tải Xuống\QLSV\QLSV_3Layer\QLSV_3Layer\obj\Debug\QLSV_3Layer.frmDSMHDaDKy.resources
+D:\Tải Xuống\QLSV\QLSV_3Layer\QLSV_3Layer\obj\Debug\QLSV_3Layer.frmDSSV.resources
+D:\Tải Xuống\QLSV\QLSV_3Layer\QLSV_3Layer\obj\Debug\QLSV_3Layer.frmGV.resources
+D:\Tải Xuống\QLSV\QLSV_3Layer\QLSV_3Layer\obj\Debug\QLSV_3Layer.frmKQHocTap.resources
+D:\Tải Xuống\QLSV\QLSV_3Layer\QLSV_3Layer\obj\Debug\QLSV_3Layer.frmLopHoc.resources
+D:\Tải Xuống\QLSV\QLSV_3Layer\QLSV_3Layer\obj\Debug\QLSV_3Layer.frmMain.resources
+D:\Tải Xuống\QLSV\QLSV_3Layer\QLSV_3Layer\obj\Debug\QLSV_3Layer.frmMonHoc.resources
+D:\Tải Xuống\QLSV\QLSV_3Layer\QLSV_3Layer\obj\Debug\QLSV_3Layer.frmSinhVien.resources
+D:\Tải Xuống\QLSV\QLSV_3Layer\QLSV_3Layer\obj\Debug\QLSV_3Layer.frmTroGiup.resources
+D:\Tải Xuống\QLSV\QLSV_3Layer\QLSV_3Layer\obj\Debug\QLSV_3Layer.frmWelcom.resources
+D:\Tải Xuống\QLSV\QLSV_3Layer\QLSV_3Layer\obj\Debug\QLSV_3Layer.Properties.Resources.resources
+D:\Tải Xuống\QLSV\QLSV_3Layer\QLSV_3Layer\obj\Debug\QLSV_3Layer.csproj.GenerateResource.cache
+D:\Tải Xuống\QLSV\QLSV_3Layer\QLSV_3Layer\obj\Debug\QLSV_3Layer.csproj.CoreCompileInputs.cache
+D:\Tải Xuống\QLSV\QLSV_3Layer\QLSV_3Layer\obj\Debug\QLSV_3Layer.exe
+D:\Tải Xuống\QLSV\QLSV_3Layer\QLSV_3Layer\obj\Debug\QLSV_3Layer.pdb
